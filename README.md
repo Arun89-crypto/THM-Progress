@@ -3,9 +3,9 @@
 # Level 1 (Intro) 
 - [ ] OpenVPN https://tryhackme.com/room/openvpn 
 - [ ] Welcome https://tryhackme.com/jr/welcome 
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch 
+- 👍 Intro to Researching https://tryhackme.com/room/introtoresearch 
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals 
+- 👍 Learn Linux https://tryhackme.com/module/linux-fundamentals 
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting 
 
 **Introductory CTFs to get your feet wet** 
@@ -15,7 +15,7 @@
 
 # Level 2 (Tooling)
 - [ ] Tmux https://tryhackme.com/room/rptmux 
-- [ ] Nmap https://tryhackme.com/room/furthernmap 
+- 👍 Nmap https://tryhackme.com/room/furthernmap 
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r 
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit 
