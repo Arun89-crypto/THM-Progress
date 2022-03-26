@@ -105,3 +105,21 @@
 
 <img src="https://blog.tryhackme.com/content/images/2020/03/subscriber-wave-1-3.png"></img>
 <img src="https://blog.tryhackme.com/content/images/2020/03/image-1.png"></img>
+
+
+## Progress
+
+### Wave 1
+- CC:Pentesting
+- RP:tmux
+- RP:nmap
+- Learn Linux
+- The find command
+- Toolbox:Vim
+- Metasploit
+- Blue
+- RP:Web Scanning
+- DVWA
+- Plethora
+- Windows Base
+- RP:Metasploit
