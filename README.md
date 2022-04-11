@@ -16,11 +16,11 @@
 # Level 2 (Tooling)
 - [ ] Tmux https://tryhackme.com/room/rptmux 
 - 👍 Nmap https://tryhackme.com/room/furthernmap 
-- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
+- ⌛ Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r 
 - 👍 Metasploit https://tryhackme.com/room/rpmetasploit 
 - 👍 Hydra https://tryhackme.com/room/hydra 
-- **REDO** Linux Privesc https://tryhackme.com/room/linuxprivesc 
+- **REDO🚨** Linux Privesc https://tryhackme.com/room/linuxprivesc 
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Shodan https://tryhackme.com/room/shodan 
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan 
