@@ -1,8 +1,8 @@
 # THM-Progress
 
 # Level 1 (Intro) 
-- [ ] OpenVPN https://tryhackme.com/room/openvpn 
-- [ ] Welcome https://tryhackme.com/jr/welcome 
+- 👍 OpenVPN https://tryhackme.com/room/openvpn 
+- 👍 Welcome https://tryhackme.com/jr/welcome 
 - 👍 Intro to Researching https://tryhackme.com/room/introtoresearch 
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
 - 👍 Learn Linux https://tryhackme.com/module/linux-fundamentals 
@@ -18,18 +18,18 @@
 - 👍 Nmap https://tryhackme.com/room/furthernmap 
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r 
-- [ ] Metasploit https://tryhackme.com/room/rpmetasploit 
-- [ ] Hydra https://tryhackme.com/room/hydra 
-- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc 
+- 👍 Metasploit https://tryhackme.com/room/rpmetasploit 
+- 👍 Hydra https://tryhackme.com/room/hydra 
+- **REDO** Linux Privesc https://tryhackme.com/room/linuxprivesc 
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning 
 - [ ] Shodan https://tryhackme.com/room/shodan 
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan 
 
 **More introductory CTFs** 
-- [ ] Vulnversity - https://tryhackme.com/room/vulnversity 
-- [ ] Blue - https://tryhackme.com/room/blue 
-- [ ] Simple CTF https://tryhackme.com/room/easyctf 
-- [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker 
+- 👍 Vulnversity - https://tryhackme.com/room/vulnversity 
+- 👍 Blue - https://tryhackme.com/room/blue 
+- 👍 Simple CTF https://tryhackme.com/room/easyctf 
+- 👍 Bounty Hacker https://tryhackme.com/room/cowboyhacker 
 - [ ] Brute It https://tryhackme.com/room/bruteit 
 
 # Level 3 (Crypto & Hashes with CTF practice) 
