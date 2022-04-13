@@ -17,7 +17,7 @@
 - 👍 Tmux https://tryhackme.com/room/rptmux 
 - 👍 Nmap https://tryhackme.com/room/furthernmap 
 - 👍 Web Scanning https://tryhackme.com/room/rpwebscanning 
-- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r 
+- 👍 Sublist3r https://tryhackme.com/room/rpsublist3r 
 - 👍 Metasploit https://tryhackme.com/room/rpmetasploit 
 - 👍 Hydra https://tryhackme.com/room/hydra 
 - **REDO🚨** Linux Privesc https://tryhackme.com/room/linuxprivesc 
@@ -29,7 +29,7 @@
 - 👍 Blue - https://tryhackme.com/room/blue 
 - 👍 Simple CTF https://tryhackme.com/room/easyctf 
 - 👍 Bounty Hacker https://tryhackme.com/room/cowboyhacker 
-- [ ] Brute It https://tryhackme.com/room/bruteit 
+- 👍 Brute It https://tryhackme.com/room/bruteit 
 
 # Level 3 (Crypto & Hashes with CTF practice) 
 - [ ] Crack the hash https://tryhackme.com/room/crackthehash 
