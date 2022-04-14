@@ -22,7 +22,7 @@
 - 👍 Hydra https://tryhackme.com/room/hydra 
 - **REDO🚨** Linux Privesc https://tryhackme.com/room/linuxprivesc 
 - [ ] Shodan https://tryhackme.com/room/shodan 
-- [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan 
+- 👍 RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan 
 
 **More introductory CTFs** 
 - 👍 Vulnversity - https://tryhackme.com/room/vulnversity 
@@ -32,7 +32,7 @@
 - 👍 Brute It https://tryhackme.com/room/bruteit 
 
 # Level 3 (Crypto & Hashes with CTF practice) 
-- [ ] Crack the hash https://tryhackme.com/room/crackthehash 
+- 👍 Crack the hash https://tryhackme.com/room/crackthehash 
 - [ ] Agent Sudo https://tryhackme.com/room/agentsudoctf 
 - [ ] The Cod Caper https://tryhackme.com/room/thecodcaper 
 - [ ] Ice https://tryhackme.com/room/ice 
