@@ -36,8 +36,8 @@
 - 👍 Agent Sudo https://tryhackme.com/room/agentsudoctf 
 - 👍 The Cod Caper https://tryhackme.com/room/thecodcaper 
 - 👍 Ice https://tryhackme.com/room/ice 
-- [ ] Lazy Admin https://tryhackme.com/room/lazyadmin 
-- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt 
+- 👍 Lazy Admin https://tryhackme.com/room/lazyadmin 
+- 👍 Basic Pentesting https://tryhackme.com/room/basicpentestingjt 
 
 # Level 4 (Web) 
 - [ ] OWASP top 10 https://tryhackme.com/room/owasptop10 
